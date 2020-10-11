@@ -1,4 +1,4 @@
-# gabrielworkstation
+
 Automatização de instalação do Ubuntu
 
 Certique-se do arquivo ter permissões de execução.
